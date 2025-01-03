@@ -21,7 +21,7 @@ An AI-powered technical interview assistant built with Streamlit and Groq API. A
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/ahmedfurkhan/Ahmed-AI-Interviewer.git
+git clone https://github.com/Ahmedfurkhan/Ahmed-AI-Interviewer.git
 cd Ahmed-AI-Interviewer
 ```
 
@@ -112,4 +112,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ---
 
 # Support
-For support, please open an issue in the [GitHub repository](#).
+For support, please open an issue in the [GitHub repository](https://github.com/Ahmedfurkhan/Ahmed-AI-Interviewer.git).
